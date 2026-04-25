@@ -48,5 +48,20 @@ namespace tpmodul8_103082400039
             File.WriteAllText(filePath, json);
         }
 
+        // SESUAI SOAL
+        public void UbahSatuan()
+        {
+            if (satuan_suhu == "celcius")
+            {
+                satuan_suhu = "fahrenheit";
+            }
+            else
+            {
+                satuan_suhu = "celcius";
+            }
+
+            SaveConfig();
+        }
+
     }
 }

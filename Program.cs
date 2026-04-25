@@ -8,6 +8,8 @@ class Program
         CovidConfig config = new CovidConfig();
         config.LoadConfig();
 
+        config.UbahSatuan();
+
         Console.WriteLine($"Berapa suhu badan anda saat ini? Dalam nilai {config.satuan_suhu}");
         double suhu = Convert.ToDouble(Console.ReadLine());
 
