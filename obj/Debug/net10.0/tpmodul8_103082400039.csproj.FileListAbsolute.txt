@@ -1,0 +1,14 @@
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\bin\Debug\net10.0\tpmodul8_103082400039.exe
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\bin\Debug\net10.0\tpmodul8_103082400039.deps.json
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\bin\Debug\net10.0\tpmodul8_103082400039.runtimeconfig.json
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\bin\Debug\net10.0\tpmodul8_103082400039.dll
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\bin\Debug\net10.0\tpmodul8_103082400039.pdb
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\obj\Debug\net10.0\tpmodul8_103082400039.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\obj\Debug\net10.0\tpmodul8_103082400039.AssemblyInfoInputs.cache
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\obj\Debug\net10.0\tpmodul8_103082400039.AssemblyInfo.cs
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\obj\Debug\net10.0\tpmodul8_103082400039.csproj.CoreCompileInputs.cache
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\obj\Debug\net10.0\tpmodul8_103082400039.dll
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\obj\Debug\net10.0\refint\tpmodul8_103082400039.dll
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\obj\Debug\net10.0\tpmodul8_103082400039.pdb
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\obj\Debug\net10.0\tpmodul8_103082400039.genruntimeconfig.cache
+D:\KULIAH\semester 4\konstruksi PL\tpmodul8_103082400039\tpmodul8_103082400039\obj\Debug\net10.0\ref\tpmodul8_103082400039.dll
